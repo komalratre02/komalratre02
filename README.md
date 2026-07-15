@@ -11,7 +11,7 @@ Lately, I've been actively exploring the AI landscape—working with Multi-Agent
 - ⚙️ **Core Tech:** Java, Spring Boot, Spring WebFlux, Kafka, Redis, Docker
 - 🤖 **AI Interests:** LangGraph, RAG Pipelines, Vector DBs (Qdrant), Multi-Agent Architecture
 - 🎓 B.E. in Computer Science from **Chitkara University** (CGPA: 9.55)
-- 🏆 Awarded **The Spark Award (2024)** for platform development contributions
+- 🏆 Awarded **The Spark Award (2025)** for platform development contributions
 - 📫 Reach me at: [komalratre2002@gmail.com](mailto:komalratre2002@gmail.com) | [LinkedIn](https://linkedin.com/in/komalratre)
 
 ---
