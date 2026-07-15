@@ -53,14 +53,7 @@ Conceptual multi-agent system utilizing **LangGraph** orchestration to model Pla
 - Autonomous self-correction workflows based on eval metrics
 - Resilient Model Gateway for seamless LLM provider failover
 
----
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalratre02&show_icons=true&theme=radical&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalratre02&layout=compact&theme=radical&hide_border=true" height="195" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
