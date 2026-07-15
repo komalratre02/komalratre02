@@ -47,7 +47,7 @@ A production-grade, distributed rate limiting engine built with **Java 21**, **S
 - O(1) Token Bucket and Sliding Window implementations
 - Fire-and-forget Kafka telemetry
 
-#### Agentic Outreach System
+#### [Agentic Outreach System](https://github.com/komalratre02/agentic-sequence-generator)
 Conceptual multi-agent system utilizing **LangGraph** orchestration to model Planner, Research, Writer, and Reviewer workflows.
 - Live **RAG pipeline** with semantic retrieval via Vector DBs
 - Autonomous self-correction workflows based on eval metrics
